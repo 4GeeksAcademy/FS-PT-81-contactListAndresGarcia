@@ -1,0 +1,19 @@
+.card-container {
+    display: flex;
+    height: 180px;
+    width: 850px;
+    justify-content: center;
+    padding: 10px 0;
+    border-bottom: 2px solid
+}
+.imagen {
+    width: 8rem;
+    justify-content: left;
+    display: flex;
+}
+.buttons {
+    display: flex;
+    height: 40px;
+    gap: 10px;
+    justify-content: end;
+}
